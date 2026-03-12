@@ -2,7 +2,7 @@
 
 Hi, I'm Anoma. During my QA internship at WebAlive I worked on several modules across our platform: the Operon service management system, the Exsited inventory management app and the Budget and Labour Hire centres. I wrote test cases, ran functional tests, logged bugs and compared our features to competitor products.
 
-This repository contains those reports. If you're reviewing my work for an interview or just curious about how I approach testing, here's what you'll find inside.
+This repository contains those reports. If you're reviewing my work, how I approach testing, here's what you'll find inside.
 
 ## Repository contents
 
